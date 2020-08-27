@@ -1,0 +1,6 @@
+{
+    "require": {
+        "curl/curl": "^2.3",
+        "symfony/console": "^5.1"
+    }
+}
