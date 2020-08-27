@@ -6,4 +6,4 @@ php:
 sudo: false
 
 before_script: composer install
-script: php console.php
+script: php console.php 12008070
