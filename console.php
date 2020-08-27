@@ -72,7 +72,6 @@ use Symfony\Component\Console\SingleCommandApplication;
                     ]);
             }
             $table2->render();
-
         } else {
             $section1->overwrite('<fg=red>SBD không hợp lệ</>');
         }
